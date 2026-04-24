@@ -1,39 +1,33 @@
-# CAPATUR - Client Management System
+CAPATUR - Sistema de Gestión de Clientes
 
-Sistema web desarrollado para CAPATUR (Cámara de Prestadores de Servicios de Alojamientos Turísticos) para la gestión de clientes y digitalización de procesos administrativos.
+Aplicación web desarrollada para CAPATUR (Cámara de Prestadores de Servicios de Alojamientos Turísticos) para la gestión de clientes y la digitalización de procesos administrativos.
 
-## Tech Stack
+Tecnologías
+C#
+ASP.NET Core MVC
+Entity Framework Core
+SQL Server
+ASP.NET Identity
+Funcionalidades
+Registro e inicio de sesión de usuarios
+Gestión completa de clientes (CRUD)
+Persistencia de datos en base de datos relacional
+Arquitectura basada en patrón MVC
+Caso de uso real
 
-* C#
-* ASP.NET Core MVC
-* Entity Framework Core
-* SQL Server
-* ASP.NET Identity
+Sistema desarrollado para una organización real, reemplazando la gestión manual de clientes por una solución digital centralizada.
 
-## Features
+Aprendizajes
+Desarrollo de aplicaciones web con ASP.NET Core
+Implementación de autenticación con Identity
+Manejo de bases de datos con Entity Framework
+Estructuración de aplicaciones utilizando el patrón MVC
 
-* Registro e inicio de sesión de usuarios
-* Gestión completa de clientes (CRUD)
-* Persistencia de datos en base de datos relacional
-* Arquitectura basada en patrón MVC
-
-## Real Use Case
-
-Aplicación desarrollada para un caso real, permitiendo reemplazar la gestión manual de clientes por un sistema digital centralizado.
-
-## What I Learned
-
-* Desarrollo de aplicaciones web con ASP.NET Core
-* Implementación de autenticación con Identity
-* Manejo de bases de datos con Entity Framework
-* Estructuración de aplicaciones en capas (MVC)
-
-## Run Locally
-
-1. Clonar el repositorio
-2. Configurar la cadena de conexión en `appsettings.json`
-3. Ejecutar migraciones (`Update-Database`)
-4. Ejecutar el proyecto desde Visual Studio
+Ejecución local
+Clonar el repositorio
+Configurar la cadena de conexión en appsettings.json
+Ejecutar migraciones (Update-Database)
+Ejecutar el proyecto desde Visual Studio
 
 ## Screenshots
 
