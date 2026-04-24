@@ -1,8 +1,8 @@
-#CAPATUR - Sistema de Gestión de Clientes
+## CAPATUR - Sistema de Gestión de Clientes
 
 Aplicación web desarrollada para CAPATUR (Cámara de Prestadores de Servicios de Alojamientos Turísticos) para la gestión de clientes y la digitalización de procesos administrativos.
 
-##Tecnologías
+## Tecnologías
 C#
 ASP.NET Core MVC
 Entity Framework Core
@@ -13,17 +13,18 @@ Registro e inicio de sesión de usuarios
 Gestión completa de clientes (CRUD)
 Persistencia de datos en base de datos relacional
 Arquitectura basada en patrón MVC
-Caso de uso real
+
+##Caso de uso real
 
 Sistema desarrollado para una organización real, reemplazando la gestión manual de clientes por una solución digital centralizada.
 
-Aprendizajes
+## Aprendizajes
 Desarrollo de aplicaciones web con ASP.NET Core
 Implementación de autenticación con Identity
 Manejo de bases de datos con Entity Framework
 Estructuración de aplicaciones utilizando el patrón MVC
 
-Ejecución local
+## Ejecución local
 Clonar el repositorio
 Configurar la cadena de conexión en appsettings.json
 Ejecutar migraciones (Update-Database)
